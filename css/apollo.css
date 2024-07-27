@@ -735,3 +735,27 @@ footer .copyright a:hover {
   font-weight: normal;
   font-style: normal;
 }
+
+/* 以下是自定义区域 */
+
+.post-content {
+  margin-bottom: 60px; /* Adjust the margin as needed */
+}
+
+blockquote.custom-style {
+  margin: 2em 0;
+  padding-left: 20px;
+  border-left: 4px solid #db3333;
+}
+
+blockquote.custom-style .image-container {
+  text-align: center;
+}
+
+blockquote.custom-style .image-container img {
+  display: inline-block;
+}
+
+blockquote.custom-style .license-text {
+  color: #db3333;
+}
