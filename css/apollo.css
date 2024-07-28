@@ -383,9 +383,14 @@ header .nav-list-item a {
   word-break: break-all;
 }
 .post-content blockquote {
+  
   margin: 2em 0;
   padding-left: 20px;
   border-left: 4px solid #db3333;
+  margin: 2em 0;
+  border-radius: 7.5px;
+  background-image: repeating-linear-gradient(45deg, rgba(234, 153, 156, 0.25), rgba(234, 153, 156, 0.25) 10px, rgba(234, 153, 156, 0.125) 10px, rgba(234, 153, 156, 0.125) 20px);
+
 }
 .post-content img {
   display: block;
@@ -745,17 +750,23 @@ footer .copyright a:hover {
 blockquote.custom-style {
   margin: 2em 0;
   padding-left: 20px;
-  border-left: 4px solid #db3333;
+  border-left: 3.5px solid #d20f39;
+  border-radius: 7.5px;
+  background-image: repeating-linear-gradient(45deg, rgba(234, 153, 156, 0.25), rgba(234, 153, 156, 0.25) 10px, rgba(234, 153, 156, 0.125) 10px, rgba(234, 153, 156, 0.125) 20px);
 }
 
 blockquote.custom-style .image-container {
   text-align: center;
+  padding-top: 1rem;
 }
 
 blockquote.custom-style .image-container img {
   display: inline-block;
+  height: 1.6rem
 }
 
+
+
 blockquote.custom-style .license-text {
-  color: #db3333;
+  color: #8839ef;
 }
