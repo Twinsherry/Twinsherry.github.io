@@ -741,11 +741,8 @@ footer .copyright a:hover {
 
 /* 以下是自定义区域 */
 
-.post-content {
-  margin-bottom: 60px; /* Adjust the margin as needed */
-}
-
 blockquote.custom-style {
+  margin-top: 60px; /* Adjust the margin as needed */
   margin: 2em 0;
   padding-left: 20px;
   border-left: 3.5px solid #d20f39;
