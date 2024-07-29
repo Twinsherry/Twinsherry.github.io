@@ -6,7 +6,7 @@
   <link href="https://twinsherry.github.io/atom.xml" rel="self"/>
   
   <link href="https://twinsherry.github.io/"/>
-  <updated>2024-07-28T18:26:38.296Z</updated>
+  <updated>2024-07-29T07:30:56.128Z</updated>
   <id>https://twinsherry.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一个普遍存在的换行问题</title>
+    <link href="https://twinsherry.github.io/2024/07/29/%E4%B8%80%E4%B8%AA%E6%99%AE%E9%81%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E6%8D%A2%E8%A1%8C%E9%97%AE%E9%A2%98/"/>
+    <id>https://twinsherry.github.io/2024/07/29/%E4%B8%80%E4%B8%AA%E6%99%AE%E9%81%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E6%8D%A2%E8%A1%8C%E9%97%AE%E9%A2%98/</id>
+    <published>2024-07-29T07:12:32.000Z</published>
+    <updated>2024-07-29T07:30:56.128Z</updated>
+    
+    <content type="html"><![CDATA[<p>CR 与 LF 是两种不同的文本换行方式，LF 代表换行（转义序列 \n），CR 代表回车（转义序列 \r）。</p><p>在 Linux 和 Mac 上，这相当于新文本行的开始，而 Windows 不遵循这个约定。</p><span id="more"></span><p>其实在最开始制作 Dice! 的牌堆时（以 .json 结尾）就和 \n 打过交道，后来因为看了雨笙的使用. yaml 书写牌堆的方，所以又很久没有见过了。</p><p>在这个博客的建设初期修复时遇到了不少问题，但只要是能单纯通过 git 代码行和修改配置文件解决的大多不是难事。</p><p>在 Linux 上打开 备份博客源文件的时候，Elihuso 发现所有的行尾都使用了 CRLF 即回车换行，因为它们没有经过 git 打包。</p><p>已经尝试了使用多种工具解决这个问题，不过由于能力有限最后没办法处理旧文件，只能针对 vscode 的设置下手，至少后面不会出现这个问题，旧文件目前也暂时不会造成大的影响。</p><p><del>根本性的解决办法看起来是装个 Windows 和 Linux 双系统，不过要等到买新电脑了。</del></p><p>（思考）感觉自己在折腾捣鼓计算机的道路上越走越远但是好像什么都没学会。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;CR 与 LF 是两种不同的文本换行方式，LF 代表换行（转义序列 &#92;n），CR 代表回车（转义序列 &#92;r）。&lt;/p&gt;
+&lt;p&gt;在 Linux 和 Mac 上，这相当于新文本行的开始，而 Windows 不遵循这个约定。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://twinsherry.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="Windows" scheme="https://twinsherry.github.io/tags/Windows/"/>
+    
+    <category term="vscode" scheme="https://twinsherry.github.io/tags/vscode/"/>
+    
+    <category term="换行符" scheme="https://twinsherry.github.io/tags/%E6%8D%A2%E8%A1%8C%E7%AC%A6/"/>
+    
+  </entry>
   
   <entry>
     <title>过往的离别与我们的送行</title>
