@@ -6,7 +6,7 @@
   <link href="https://twinsherry.github.io/atom.xml" rel="self"/>
   
   <link href="https://twinsherry.github.io/"/>
-  <updated>2024-10-05T08:48:35.859Z</updated>
+  <updated>2024-10-05T08:57:04.692Z</updated>
   <id>https://twinsherry.github.io/</id>
   
   <author>
@@ -21,13 +21,14 @@
     <link href="https://twinsherry.github.io/2024/10/05/%E7%B2%89%E8%89%B2%E9%AD%94%E7%88%AA/"/>
     <id>https://twinsherry.github.io/2024/10/05/%E7%B2%89%E8%89%B2%E9%AD%94%E7%88%AA/</id>
     <published>2024-10-05T08:33:49.000Z</published>
-    <updated>2024-10-05T08:48:35.859Z</updated>
+    <updated>2024-10-05T08:57:04.692Z</updated>
     
-    <content type="html"><![CDATA[<p>之前说到了百香果，还有热巧，提拉米苏……</p><p>味蕾的信息，是可以概括那种，人与人之间的关系的感觉呢……</p><span id="more"></span><p>感觉和 Elihuso 的关系，更像是，粉魔爪那样的感觉呢……</p><p>粉魔爪，是加糖的……里面有甜味的感觉，却又不是绝对的甜。能让人恢复一段时间精力，却要一直喝下去……</p><p>并不像热可可那样的甜腻，也并没有一般的百香果的清甜，更没有附带提拉米苏的苦涩……</p><p>但是每喝一口就会有被刺激到的感觉，是甜？是酸？还是想哭呢……也许要看状态了……</p><p>粉魔爪的味道，是不会有回味的呢，但就是觉得甜，然后让人选择「依赖上它」。</p><p>依赖上，结果就会像是这样吧……</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">if (elihusoExists || elihusoNearby)</span><br><span class="line">&#123;</span><br><span class="line">    BOOT_IMAGE &lt;= base;</span><br><span class="line">    return base.load();</span><br><span class="line">&#125;</span><br><span class="line">else</span><br><span class="line">&#123;</span><br><span class="line">    return -1;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>可能这就是咱找到的，关于味道的答案呢……从那天 Elihuso 在 Amika 面前买下第一罐粉魔爪开始，也许已经注定了是这个答案了……</p>]]></content>
+    <content type="html"><![CDATA[<p>之前说到了百香果，还有热巧，提拉米苏……</p><p>味蕾的信息，似乎，可以概括那种人与人之间的关系。</p><p>也许是因为七情和五味也可以通过那些理论扯上联系吧~（偷笑）</p><span id="more"></span><p>感觉和 Elihuso 的关系，更像是，粉魔爪那样的感觉呢……</p><p>粉魔爪，是加糖的……里面有甜味的感觉，却又不是绝对的甜。能让人恢复一段时间精力，却要一直喝下去……</p><p>并不像热可可那样的甜腻，也并没有一般的百香果的清甜，更没有附带提拉米苏的苦涩……</p><p>但是每喝一口就会有被刺激到的感觉，是甜？是酸？还是想哭呢……也许要看状态了……</p><p>粉魔爪的味道，是不会有回味的呢，但就是觉得甜，然后让人选择「依赖上它」。</p><p>依赖上，结果就会像是这样吧……</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">if (elihusoExists || elihusoNearby)</span><br><span class="line">&#123;</span><br><span class="line">    BOOT_IMAGE &lt;= base;</span><br><span class="line">    return base.load();</span><br><span class="line">&#125;</span><br><span class="line">else</span><br><span class="line">&#123;</span><br><span class="line">    return -1;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>可能这就是咱找到的，关于味道的答案呢……从那天 Elihuso 在 Amika 面前买下第一罐粉魔爪开始，也许已经注定了是这个答案了……</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;之前说到了百香果，还有热巧，提拉米苏……&lt;/p&gt;
-&lt;p&gt;味蕾的信息，是可以概括那种，人与人之间的关系的感觉呢……&lt;/p&gt;</summary>
+&lt;p&gt;味蕾的信息，似乎，可以概括那种人与人之间的关系。&lt;/p&gt;
+&lt;p&gt;也许是因为七情和五味也可以通过那些理论扯上联系吧~（偷笑）&lt;/p&gt;</summary>
     
     
     
