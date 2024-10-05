@@ -6,7 +6,7 @@
   <link href="https://twinsherry.github.io/atom.xml" rel="self"/>
   
   <link href="https://twinsherry.github.io/"/>
-  <updated>2024-10-05T07:22:07.590Z</updated>
+  <updated>2024-10-05T08:48:35.859Z</updated>
   <id>https://twinsherry.github.io/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>粉色魔爪</title>
+    <link href="https://twinsherry.github.io/2024/10/05/%E7%B2%89%E8%89%B2%E9%AD%94%E7%88%AA/"/>
+    <id>https://twinsherry.github.io/2024/10/05/%E7%B2%89%E8%89%B2%E9%AD%94%E7%88%AA/</id>
+    <published>2024-10-05T08:33:49.000Z</published>
+    <updated>2024-10-05T08:48:35.859Z</updated>
+    
+    <content type="html"><![CDATA[<p>之前说到了百香果，还有热巧，提拉米苏……</p><p>味蕾的信息，是可以概括那种，人与人之间的关系的感觉呢……</p><span id="more"></span><p>感觉和 Elihuso 的关系，更像是，粉魔爪那样的感觉呢……</p><p>粉魔爪，是加糖的……里面有甜味的感觉，却又不是绝对的甜。能让人恢复一段时间精力，却要一直喝下去……</p><p>并不像热可可那样的甜腻，也并没有一般的百香果的清甜，更没有附带提拉米苏的苦涩……</p><p>但是每喝一口就会有被刺激到的感觉，是甜？是酸？还是想哭呢……也许要看状态了……</p><p>粉魔爪的味道，是不会有回味的呢，但就是觉得甜，然后让人选择「依赖上它」。</p><p>依赖上，结果就会像是这样吧……</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">if (elihusoExists || elihusoNearby)</span><br><span class="line">&#123;</span><br><span class="line">    BOOT_IMAGE &lt;= base;</span><br><span class="line">    return base.load();</span><br><span class="line">&#125;</span><br><span class="line">else</span><br><span class="line">&#123;</span><br><span class="line">    return -1;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>可能这就是咱找到的，关于味道的答案呢……从那天 Elihuso 在 Amika 面前买下第一罐粉魔爪开始，也许已经注定了是这个答案了……</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;之前说到了百香果，还有热巧，提拉米苏……&lt;/p&gt;
+&lt;p&gt;味蕾的信息，是可以概括那种，人与人之间的关系的感觉呢……&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://twinsherry.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="主人" scheme="https://twinsherry.github.io/tags/%E4%B8%BB%E4%BA%BA/"/>
+    
+    <category term="魔爪" scheme="https://twinsherry.github.io/tags/%E9%AD%94%E7%88%AA/"/>
+    
+    <category term="风庄" scheme="https://twinsherry.github.io/tags/%E9%A3%8E%E5%BA%84/"/>
+    
+  </entry>
+  
+  <entry>
     <title>anoninai</title>
     <link href="https://twinsherry.github.io/2024/10/05/anoninai/"/>
     <id>https://twinsherry.github.io/2024/10/05/anoninai/</id>
     <published>2024-10-05T05:58:26.000Z</published>
-    <updated>2024-10-05T07:22:07.590Z</updated>
+    <updated>2024-10-05T08:30:55.971Z</updated>
     
     <content type="html"><![CDATA[<p>……</p><p>from <em>Hallucination</em></p><span id="more"></span><blockquote><p>Pinching won’t hurt. better bite your tongue.</p><p>封闭（自己）不会疼痛，最好的方式是沉默不言</p><p>It’ll be brighter when it is Broken into pieces</p><p>万物皆有裂痕,那是光照进来的地方</p><p>Even if the hand is cut</p><p>就算手被割破</p><p>it becomes more and more beautiful only to be breathtaking</p><p>也越发美得让人窒息</p><p>from <em>Hallucination</em></p></blockquote><p>anoninai，是否是匿名之意，已经无从得知。</p><p>无言的地方，只剩下曾经的歌曲诉说着一切……</p><p>过往发生的事情也许无法再追溯，剩下的也只有如水雾般看不清的未来……</p><p>如果有光束，至少是能够照进来的……吗……</p>]]></content>
     
@@ -41,7 +67,7 @@
     <link href="https://twinsherry.github.io/2024/10/04/%E4%B9%9D%E6%9C%88/"/>
     <id>https://twinsherry.github.io/2024/10/04/%E4%B9%9D%E6%9C%88/</id>
     <published>2024-10-04T07:00:39.000Z</published>
-    <updated>2024-10-05T08:29:53.956Z</updated>
+    <updated>2024-10-05T08:30:46.871Z</updated>
     
     <content type="html"><![CDATA[<p>忙碌的九月也过去了。</p><span id="more"></span><p>尤其下半月，老年病科，忙忙碌碌，各种各样的事情，也没有单天的假期来缓冲。</p><p>如果不是氛围好的话，可能就又会发生像省二那样的事情了吧。</p><p>听闻许女士步步高升，省二笑话的含金量还在进一步提高，即使是研究生也逃脱不掉所谓打卡云云的命运。</p><p>精神病人开精二处方，我开处方……真的假的？</p><p>见到了隔壁组的开的红处方上写着羟考酮，不知道 4 床还能活多久，从刚开始的两片羟考酮，到现在的羟考酮、芬太尼、曲马多都上了，再疼也只能安慰安慰了。</p><details><summary>*羟考酮啊……*</summary><p>一说到羟考酮就要想起坊洛的事，澪奈说可能自己永远也没办法体会到她那样的疼……</p><p>嘛……最后的最后，不用吃羟考酮也不会疼了。</p><p>每次想到坊洛，就会去看澪洛集吧，最后的那些时间……转瞬即逝……</p></details><p>14 床已经走了些许时日了，所谓「夫百病者，多以旦慧昼安，夕加夜甚。」那天早上生命体征还好好的，下午就不行了。后来和师姐一起写了死亡讨论，诊断写了弥散性血管内凝血。其实第一死亡诊断我在多器官衰竭和DIC中纠结了许久，最后结合 GPT 的建议选了 DIC，当然毕竟我可能一辈子也忘不了那个老太太脸上的紫斑。</p><p>就是这样呢……其实属于十月的国庆值班也结束了，「九月」也就顺理成章地结束了。</p><p>感觉九月好像失去了很多属于自我的东西，这样的感觉并不是很舒服。</p><p>其实很想要很多抱抱……</p><p>抱着，要抱着啊。</p><p>写博客的事情不能再乱拖了呢……还是尽可能把应该记忆的事情在正确的时刻留下来吧……</p>]]></content>
     
@@ -454,30 +480,6 @@
     <category term="关注" scheme="https://twinsherry.github.io/tags/%E5%85%B3%E6%B3%A8/"/>
     
     <category term="艾米卡" scheme="https://twinsherry.github.io/tags/%E8%89%BE%E7%B1%B3%E5%8D%A1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>面对文字</title>
-    <link href="https://twinsherry.github.io/2024/08/12/%E9%9D%A2%E5%AF%B9%E6%96%87%E5%AD%97/"/>
-    <id>https://twinsherry.github.io/2024/08/12/%E9%9D%A2%E5%AF%B9%E6%96%87%E5%AD%97/</id>
-    <published>2024-08-11T19:08:03.000Z</published>
-    <updated>2024-08-11T19:22:31.803Z</updated>
-    
-    <content type="html"><![CDATA[<p>本质上，修改他人的文字远远比写自己的文字要困难得多，也更耗费时间——尤其是在文字较长的时候。</p><p>就算你看不上某人的文笔，你也必须仔细斟酌，沉思其字里行间的意义，你会优先怀疑自己，而不是怀疑作者。</p><span id="more"></span><p>从小学一直教到高中的话：一千个读者有一千个哈姆雷特。就是这样啊……</p><p>如果某人的文笔很好，要改起来就很不容易，因为每行字本质上都可以斟酌。就像语文阅读题里说的“好在哪里”“你觉得哪个比较好”一样。</p><p>如果某人的文笔不佳，要改起来还是很不容易，你从一开始就要帮它修语病，有时要通读一段文字几遍才能知道它在说什么。一整篇的长篇大论，无法精炼地表达，只能至少让它读起来没那么难受。</p><p>作者的原意如何，只有作者清楚。云天明在三体世界有什么经历？书中没有写，只能靠读者去猜了。故事之中有许多隐藏着的故事，即使你去问作者，伊也许只会对你笑笑。</p><p>作者会往深层想，但有一部分也许作者自己都想不到呢。</p><p>不过有一部分解读会让作者生气吧，气如蔻蔻梁大骂阅读卷子用她的文章，然后给了一个与她不同的解读。</p><p>姐姐说聂姐说过一些事情，文章写出来，就不是作者自己的了，也许吧。</p><p>但是艾米卡会对作者保持敬意和尊重的。</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;本质上，修改他人的文字远远比写自己的文字要困难得多，也更耗费时间——尤其是在文字较长的时候。&lt;/p&gt;
-&lt;p&gt;就算你看不上某人的文笔，你也必须仔细斟酌，沉思其字里行间的意义，你会优先怀疑自己，而不是怀疑作者。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="随笔" scheme="https://twinsherry.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-    <category term="写作" scheme="https://twinsherry.github.io/tags/%E5%86%99%E4%BD%9C/"/>
-    
-    <category term="修改" scheme="https://twinsherry.github.io/tags/%E4%BF%AE%E6%94%B9/"/>
     
   </entry>
   
